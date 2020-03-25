@@ -1,0 +1,5 @@
+*.csv
+README.txt
+*.iml
+.idea
+.DS_Store
