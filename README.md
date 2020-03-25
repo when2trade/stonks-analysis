@@ -1,1 +1,1 @@
-# VR_finance_analysis
+# stonks_analysis
